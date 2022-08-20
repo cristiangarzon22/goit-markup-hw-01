@@ -1,1 +1,1 @@
-project page webinar
+project page web studio
